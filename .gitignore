@@ -1,0 +1,9 @@
+.cache/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.sqlite*
+*.log
+START-HERE.md
